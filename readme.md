@@ -2,8 +2,6 @@
 
 M-Jobs is a simple yet powerful job search web application built using **Python** and **Streamlit**. It leverages the [Adzuna Job Search API](https://developer.adzuna.com/overview) to help users find relevant job postings based on job titles and locations across the U.S.
 
-![M-Jobs Logo](Images/m-letter-icon.png)
-
 ## 🚀 Features
 
 - 🔍 Search jobs by title and location  
